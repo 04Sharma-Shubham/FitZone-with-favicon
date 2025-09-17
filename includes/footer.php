@@ -39,7 +39,7 @@
                     </div>
                     <div>
                         <i class="fas fa-phone"></i>
-                        <p>(555) 123-4567</p>
+                        <p>(555) 999-78908</p>
                     </div>
                     <div>
                         <i class="fas fa-envelope"></i>

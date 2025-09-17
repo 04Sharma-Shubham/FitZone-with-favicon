@@ -52,7 +52,7 @@
                             <i class="fas fa-phone"></i>
                             <div>
                                 <h3>Phone</h3>
-                                <p>(555) 123-4567</p>
+                                <p>(555) 999-78908</p>
                             </div>
                         </div>
                         <div class="contact-item">
